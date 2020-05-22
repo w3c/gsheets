@@ -1,0 +1,30 @@
+{
+  "name": "gsheets",
+  "version": "1.0.0",
+  "description": "From Google Sheets to GitHub",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/w3c/gsheets.git"
+  },
+  "keywords": [
+    "google",
+    "apis",
+    "github",
+    "sheets"
+  ],
+  "author": "plh@w3.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/w3c/gsheets/issues"
+  },
+  "homepage": "https://github.com/w3c/gsheets#readme",
+  "dependencies": {
+    "@octokit/core": "^2.5.3",
+    "@octokit/plugin-throttling": "^3.2.1"
+  }
+}

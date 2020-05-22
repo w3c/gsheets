@@ -1,0 +1,16 @@
+[
+  {
+    "id": "https://docs.google.com/spreadsheets/d/1JIB8c7hfyH_wuxkf6bLgovFekHP1LpTtqBTJGEUIK7E/",
+    "location": [
+      "https://github.com/w3c/web-performance/blob/gh-pages/status.html",
+      "https://github.com/w3c/web-performance/blob/gh-pages/status.json"
+    ]
+  },
+  {
+    "id": "https://docs.google.com/spreadsheets/d/1K2EtkvKXMDk_h2goR34uMIWmw1LfPhIi-QAJHcQBP_4/",
+    "location": [
+       "https://github.com/WICG/wicg.github.io/blob/master/tracking.html",
+       "https://github.com/WICG/wicg.github.io/blob/master/tracking.json"
+      ]
+  }
+]
