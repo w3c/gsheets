@@ -25,6 +25,7 @@
   "homepage": "https://github.com/w3c/gsheets#readme",
   "dependencies": {
     "@octokit/core": "^2.5.3",
-    "@octokit/plugin-throttling": "^3.2.1"
+    "@octokit/plugin-throttling": "^3.2.1",
+    "google-spreadsheet": "^3.0.11"
   }
 }
